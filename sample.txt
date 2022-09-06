@@ -1,2 +1,1 @@
-連猴子都懂得Git命令
-Git is pretty complex.
+Made a phone formfactor. 
